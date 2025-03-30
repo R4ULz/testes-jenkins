@@ -1,7 +1,7 @@
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-public class SomaCalculadora {
+public class SomaCalculadoraTeste {
 
         @Test
         public void testeSoma() {
